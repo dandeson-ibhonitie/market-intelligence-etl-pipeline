@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 
 # =====================================================================
-# STAGE 1: EXTRACTION (extract.py module)
+# STAGE 1: EXTRACTION 
 # =====================================================================
 print(" Extracting Data...")
 
