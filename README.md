@@ -44,17 +44,18 @@ When you run the final loading script, it queries the database and prints out a 
 ```text
  Ingestion Complete! Data successfully loaded into 'world_intelligence.db'.
 
- --- STRATEGY ANALYTICS REPORT: TOP 5 MARKET DENSITIES ---
+--- STRATEGY ANALYTICS REPORT: TOP 5 MARKET DENSITIES ---
 Country              | Capital              | Density (Pop/Sq Km)
 --------------------------------------------------------------------
-Macau                | Macau                | 21,114.67
-Monaco               | Monaco               | 17,914.21
-Singapore            | Singapore            | 7,208.56
-Hong Kong            | Hong Kong            | 6,480.22
-Gibraltar            | Gibraltar            | 4,521.15
+Monaco               | Monaco               | 16,905.13           
+Singapore            | Singapore            | 6,786.59            
+Hong Kong            | Hong Kong            | 6,317.48            
+Gibraltar            | Gibraltar            | 4,289.85            
+Vatican City         | Vatican City         | 2,093.18  
 
  Connection closed securely. End-to-end pipeline finished!
-```
+
+
 
 ---
 
