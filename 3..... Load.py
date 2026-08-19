@@ -1,5 +1,5 @@
 # =====================================================================
-# STAGE 3: LOADING & ANALYTICS (load.py module)
+# STAGE 3: LOADING & ANALYTICS 
 # =====================================================================
 print("Loading the Data to warehouse")
 
